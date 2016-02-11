@@ -1,2 +1,0 @@
-# myopenwrt
-My OpenWrt Mod
